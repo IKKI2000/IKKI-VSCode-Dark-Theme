@@ -1,0 +1,69 @@
+{
+    "name": "ikki-vscode-dark-theme",
+    "displayName": "IKKI VSCode Dark Theme",
+    "description": "Eye Protection Dark Theme for Visual Studio Code Powered by IKKI~",
+    "version": "0.1.0",
+    "publisher": "IKKI2000",
+    "author": {
+        "name": "IKKI"
+    },
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+		"color": "#535353",
+		"theme": "dark"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "ikki",
+        "dark",
+        "theme",
+        "eye",
+        "protection"
+    ],
+    "bugs": {
+        "url": "https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/issues",
+		"email": "ikki2002@qq.com"
+	},
+    "homepage": "https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "IKKI VSCode Dark Theme",
+                "uiTheme": "vs",
+                "path": "./themes/ikki-vscode-dark-theme-color-theme.json"
+            }
+        ]
+    },
+    "badges": [
+		{
+			"url": "https://img.shields.io/visual-studio-marketplace/v/IKKI2000.ikki-vscode-dark-theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme",
+			"description": "Extension Versions"
+		},
+		{
+			"url": "https://img.shields.io/visual-studio-marketplace/i/IKKI2000.ikki-vscode-dark-theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme",
+			"description": "Extension Installs"
+		},
+		{
+			"url": "https://img.shields.io/visual-studio-marketplace/d/IKKI2000.ikki-vscode-dark-theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme",
+			"description": "Extension Downloads"
+		},
+		{
+			"url": "https://img.shields.io/visual-studio-marketplace/r/IKKI2000.ikki-vscode-dark-theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme",
+			"description": "Extension Ratings"
+		}
+	]
+}
