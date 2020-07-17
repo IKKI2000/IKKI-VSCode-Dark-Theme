@@ -555,26 +555,26 @@ See [Theme Color](https://code.visualstudio.com/api/references/theme-color) for 
     * support.constant.property-value
 * Yellow
     * markup.quote
-* Gray
-    * comment
-    * keyword.operator
-    * markup.inline.raw
+* White
+    * entity.name.section
+    * markup.heading
+    * support
 * Grass
     * keyword
 * Green
     * entity.other
     * variable
 * Cyan
+    * entity.name.tag
+* Blue
     * storage
     * markup.underline
-* Blue
-    * entity.name.tag
 * Purple
     * entity.name.function
-* Black
-    * entity.name.section
-    * markup.heading
-    * support
+* Gray
+    * comment
+    * keyword.operator
+    * markup.inline.raw
 * Base
     * markup.list
 * Add
