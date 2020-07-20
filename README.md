@@ -16,7 +16,6 @@ GitHub Repo: [https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/](https://githu
 <br>
 [![Marketplace](https://img.shields.io/visual-studio-marketplace/v/IKKI2000.ikki-vscode-dark-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/IKKI2000.ikki-vscode-dark-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/IKKI2000.ikki-vscode-dark-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme)
 [![Ratings](https://img.shields.io/visual-studio-marketplace/stars/IKKI2000.ikki-vscode-dark-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme)
 <br>
 [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-%20-fff.svg?logo=GitHub&style=social)](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/)
@@ -41,6 +40,20 @@ GitHub Repo: [https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/](https://githu
 ![Blue](https://img.shields.io/badge/❀-Blue-4a89dc.svg?labelColor=5d9cec)
 ![Purple](https://img.shields.io/badge/❀-Purple-967adc.svg?labelColor=ac92ec)
 ![Gray](https://img.shields.io/badge/❀-Gray-aab2bd.svg?labelColor=ccd1d9)
+
+## 📥 Installing
+
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&term=IKKI)  
+
+## 🔍 Looking for the Light theme?
+
+If you are interested you can also have the IKKI VSCode Light Theme available [here](https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/).
+
+## 🌟 What's new?
+
+Click here to go to the [Changelog](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/blob/master/CHANGELOG.md)
+
+## 📷 Screenshots Preview
 
 ### -= Html =-
 

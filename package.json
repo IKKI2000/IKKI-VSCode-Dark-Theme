@@ -51,11 +51,6 @@
 			"description": "Extension Versions"
 		},
 		{
-			"url": "https://img.shields.io/visual-studio-marketplace/i/IKKI2000.ikki-vscode-dark-theme.svg",
-			"href": "https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme",
-			"description": "Extension Installs"
-		},
-		{
 			"url": "https://img.shields.io/visual-studio-marketplace/d/IKKI2000.ikki-vscode-dark-theme.svg",
 			"href": "https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme",
 			"description": "Extension Downloads"
