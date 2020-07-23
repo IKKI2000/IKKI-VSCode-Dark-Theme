@@ -4,6 +4,85 @@ All notable changes to the "IKKI-VSCode-Dark-Theme" extension will be documented
 See [commits](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/commits/master) for more details.
 See [Theme Color](https://code.visualstudio.com/api/references/theme-color) for workbench colors list.
 
+## [v0.2.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/0.2.0)
+
+### -= Workbench colors =-
+
+#### Add
+
+* None
+
+#### Modify
+
+* Base colors
+    * widget.shadow
+    * selection.background
+    * icon.foreground
+* Window border
+    * window.inactiveBorder
+* Text colors
+    * textBlockQuote.border
+    * textCodeBlock.background
+    * textLink.activeForeground
+    * textSeparator.foreground
+* Button control
+    * button.foreground
+    * button.hoverBackground
+    * button.secondaryHoverBackground
+* Input control
+    * input.placeholderForeground
+* Scrollbar control
+    * scrollbar.shadow
+    * scrollbarSlider.activeBackground
+    * scrollbarSlider.background
+    * scrollbarSlider.hoverBackground
+* Badge
+    * badge.foreground
+* Lists and trees
+    * list.activeSelectionForeground
+    * list.focusForeground
+    * list.highlightForeground
+    * list.hoverBackground
+    * list.hoverForeground
+    * list.inactiveSelectionBackground
+    * list.inactiveSelectionForeground
+    * list.inactiveFocusBackground
+    * list.invalidItemForeground
+    * list.errorForeground
+    * list.warningForeground
+    * listFilterWidget.background
+    * listFilterWidget.outline
+    * listFilterWidget.noMatchesOutline
+    * list.filterMatchBackground
+    * list.filterMatchBorder
+    * tree.indentGuidesStroke
+    * list.deemphasizedForeground
+* Git colors
+    * gitDecoration.addedResourceForeground
+    * gitDecoration.modifiedResourceForeground
+    * gitDecoration.deletedResourceForeground
+    * gitDecoration.untrackedResourceForeground
+    * gitDecoration.ignoredResourceForeground
+    * gitDecoration.submoduleResourceForeground
+
+#### Delete
+
+* None
+
+### -= Syntax colors =-
+
+#### Add
+
+* None
+
+#### Modify
+
+* None
+
+#### Delete
+
+* None
+
 ## [v0.1.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/0.1.0)
 
 ### -= Workbench colors =-
