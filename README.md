@@ -16,6 +16,7 @@ GitHub Repo: [https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/](https://githu
 <br>
 [![Marketplace](https://img.shields.io/visual-studio-marketplace/v/IKKI2000.ikki-vscode-dark-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/IKKI2000.ikki-vscode-dark-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/IKKI2000.ikki-vscode-dark-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme)
 [![Ratings](https://img.shields.io/visual-studio-marketplace/stars/IKKI2000.ikki-vscode-dark-theme.svg)](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme)
 <br>
 [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-%20-fff.svg?logo=GitHub&style=social)](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/)
