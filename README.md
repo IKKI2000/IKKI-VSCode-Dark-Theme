@@ -48,7 +48,7 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ## 🔍 Looking for the Light theme?
 
-If you are interested you can also have the IKKI VSCode Light Theme available [here](https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/).
+If you are interested you can also have the [IKKI VSCode Light Theme](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-light-theme) available [here](https://github.com/IKKI2000/IKKI-VSCode-Light-Theme/).
 
 ## 🌟 What's new?
 
