@@ -4,7 +4,159 @@ All notable changes to the "IKKI-VSCode-Dark-Theme" extension will be documented
 See [commits](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/commits/master) for more details.
 See [Theme Color](https://code.visualstudio.com/api/references/theme-color) for workbench colors list.
 
-## [v0.3.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/0.3.0)
+## [v1.0.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/1.0.0) <small>[ 2020-07-30 ]</small>
+
+### -= Workbench colors =-
+
+#### Add
+
+* None
+
+#### Modify
+
+* Scrollbar control
+    * scrollbarSlider.activeBackground
+    * scrollbarSlider.background
+    * scrollbarSlider.hoverBackground
+* Minimap
+    * minimap.findMatchHighlight
+    * minimap.selectionHighlight
+* Editor colors
+    * editorCursor.background
+    * editor.selectionBackground
+    * editor.selectionForeground
+    * editor.inactiveSelectionBackground
+    * editor.selectionHighlightBackground
+    * editor.selectionHighlightBorder
+    * editor.wordHighlightBackground
+    * editor.wordHighlightBorder
+    * editor.wordHighlightStrongBackground
+    * editor.wordHighlightStrongBorder
+    * editor.findMatchBackground
+    * editor.findMatchHighlightBackground
+    * editor.findRangeHighlightBackground
+    * editor.findMatchBorder
+    * editor.findMatchHighlightBorder
+    * editor.findRangeHighlightBorder
+    * searchEditor.findMatchBackground
+    * searchEditor.findMatchBorder
+    * searchEditor.textInputBorder、
+    * editor.hoverHighlightBackground
+    * editor.lineHighlightBackground
+    * editor.lineHighlightBorder
+    * editorLink.activeForeground
+    * editor.rangeHighlightBackground
+    * editor.rangeHighlightBorder
+    * editor.symbolHighlightBackground
+    * editor.symbolHighlightBorder
+    * editorWhitespace.foreground
+    * editorIndentGuide.background
+    * editorRuler.foreground
+    * editorCodeLens.foreground
+    * editorLightBulb.foreground
+    * editorLightBulbAutoFix.foreground
+    * editorBracketMatch.background
+    * editorBracketMatch.border
+    * editor.foldBackground
+    * editorOverviewRuler.background
+    * editorOverviewRuler.border
+    * editorOverviewRuler.findMatchForeground
+    * editorOverviewRuler.rangeHighlightForeground
+    * editorOverviewRuler.selectionHighlightForeground
+    * editorOverviewRuler.wordHighlightForeground
+    * editorOverviewRuler.wordHighlightStrongForeground
+    * editorOverviewRuler.addedForeground
+    * editorOverviewRuler.deletedForeground
+    * editorOverviewRuler.errorForeground
+    * editorOverviewRuler.warningForeground
+    * editorOverviewRuler.infoForeground
+    * editorOverviewRuler.bracketMatchForeground
+    * editorError.foreground
+    * editorError.border
+    * editorWarning.foreground
+    * editorWarning.border
+    * editorInfo.foreground
+    * editorInfo.border
+    * editorHint.foreground
+    * editorHint.border
+    * problemsErrorIcon.foreground
+    * problemsWarningIcon.foreground
+    * problemsInfoIcon.foreground
+    * editorUnnecessaryCode.border
+    * editorUnnecessaryCode.opacity
+    * editorGutter.addedBackground
+    * editorGutter.deletedBackground
+    * editorGutter.commentRangeForeground
+    * editorGutter.foldingControlForeground
+* Diff editor colors
+    * diffEditor.insertedTextBackground
+    * diffEditor.insertedTextBorder
+    * diffEditor.removedTextBackground
+    * diffEditor.removedTextBorder
+    * diffEditor.border
+    * diffEditor.diagonalFill
+* Editor widget colors
+    * editorWidget.foreground
+    * editorWidget.background
+    * editorWidget.border
+    * editorWidget.resizeBorder
+    * editorSuggestWidget.border
+    * editorSuggestWidget.highlightForeground
+    * editorSuggestWidget.selectedBackground
+    * editorHoverWidget.border
+    * editorHoverWidget.statusBarBackground
+    * debugExceptionWidget.background
+    * debugExceptionWidget.border
+    * editorMarkerNavigationError.background
+    * editorMarkerNavigationWarning.background
+    * editorMarkerNavigationInfo.background
+* Peek view colors
+    * peekView.border
+    * peekViewEditor.background
+    * peekViewEditorGutter.background
+    * peekViewEditor.matchHighlightBackground
+    * peekViewEditor.matchHighlightBorder
+    * peekViewResult.background
+    * peekViewResult.fileForeground
+    * peekViewResult.lineForeground
+    * peekViewResult.matchHighlightBackground
+    * peekViewResult.selectionBackground
+    * peekViewTitle.background
+* Merge conflicts colors
+    * merge.currentHeaderBackground
+    * merge.currentContentBackground
+    * merge.incomingHeaderBackground
+    * merge.incomingContentBackground
+    * merge.border
+    * merge.commonContentBackground
+    * merge.commonHeaderBackground
+    * editorOverviewRuler.currentContentForeground
+    * editorOverviewRuler.incomingContentForeground
+    * editorOverviewRuler.commonContentForeground
+* Notebook colors
+    * notebookScrollbarSlider.background
+    * notebookScrollbarSlider.hoverBackground
+    * notebookScrollbarSlider.activeBackground
+
+#### Delete
+
+* None
+
+### -= Syntax colors =-
+
+#### Add
+
+* None
+
+#### Modify
+
+* None
+
+#### Delete
+
+* None
+
+## [v0.3.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/0.3.0) <small>[ 2020-07-28 ]</small>
 
 ### -= Workbench colors =-
 
@@ -203,7 +355,7 @@ See [Theme Color](https://code.visualstudio.com/api/references/theme-color) for 
 
 * None
 
-## [v0.2.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/0.2.0)
+## [v0.2.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/0.2.0) <small>[ 2020-07-23 ]</small>
 
 ### -= Workbench colors =-
 
@@ -282,7 +434,7 @@ See [Theme Color](https://code.visualstudio.com/api/references/theme-color) for 
 
 * None
 
-## [v0.1.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/0.1.0)
+## [v0.1.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/0.1.0) <small>[ 2020-07-20 ]</small>
 
 ### -= Workbench colors =-
 

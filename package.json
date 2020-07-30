@@ -2,7 +2,7 @@
     "name": "ikki-vscode-dark-theme",
     "displayName": "IKKI VSCode Dark Theme",
     "description": "Eye Protection Dark Theme for Visual Studio Code Powered by IKKI~",
-    "version": "0.3.0",
+    "version": "1.0.0",
     "publisher": "IKKI2000",
     "author": {
         "name": "IKKI"
@@ -24,7 +24,12 @@
         "dark",
         "theme",
         "eye",
-        "protection"
+        "sight",
+        "protect",
+        "care",
+        "relax",
+        "comfortable",
+        "nature"
     ],
     "bugs": {
         "url": "https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/issues",
@@ -39,7 +44,7 @@
         "themes": [
             {
                 "label": "IKKI VSCode Dark Theme",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/ikki-vscode-dark-theme-color-theme.json"
             }
         ]
@@ -50,11 +55,11 @@
             "href": "https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme",
             "description": "Extension Versions"
         },
-		{
-			"url": "https://img.shields.io/visual-studio-marketplace/i/IKKI2000.ikki-vscode-dark-theme.svg",
-			"href": "https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme",
-			"description": "Extension Installs"
-		},
+        {
+            "url": "https://img.shields.io/visual-studio-marketplace/i/IKKI2000.ikki-vscode-dark-theme.svg",
+            "href": "https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme",
+            "description": "Extension Installs"
+        },
         {
             "url": "https://img.shields.io/visual-studio-marketplace/d/IKKI2000.ikki-vscode-dark-theme.svg",
             "href": "https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme",
