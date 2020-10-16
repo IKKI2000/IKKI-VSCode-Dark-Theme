@@ -4,7 +4,7 @@
 
 # 🎨 IKKI VSCode Dark Theme 🌌
 
-Eye Protection Dark Theme for Visual Studio Code Powered by IKKI.
+👁️‍🗨️ Eye Protection Dark Theme for Visual Studio Code Powered by IKKI.
 
 VSCode Marketplace：[https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme](https://marketplace.visualstudio.com/items/IKKI2000.ikki-vscode-dark-theme)
 
@@ -24,9 +24,9 @@ GitHub Repo: [https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/](https://githu
 [![GitHub forks](https://img.shields.io/github/forks/IKKI2000/IKKI-VSCode-Dark-Theme.svg?style=social)](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/network/members)
 [![GitHub watchers](https://img.shields.io/github/watchers/IKKI2000/IKKI-VSCode-Dark-Theme.svg?style=social)](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/watchers)
 <br>
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-^1.47.0-007acc.svg?labelColor=bababa&logo=Visual-Studio-Code&logoColor=007acc)](https://code.visualstudio.com/)
-[![Categories](https://img.shields.io/badge/Categories-Themes-00c2d1.svg?labelColor=bababa&logo=Visual-Studio-Code&logoColor=007acc)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes)
-[![Themes](https://img.shields.io/badge/Theme-Dark-00b5e9.svg?labelColor=bababa&logo=Visual-Studio-Code&logoColor=007acc)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&term=Dark)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-^1.50.0-007acc.svg?labelColor=535353&logo=Visual-Studio-Code&logoColor=23a8f2)](https://code.visualstudio.com/)
+[![Categories](https://img.shields.io/badge/Categories-Themes-00c2d1.svg?labelColor=535353&logo=Visual-Studio-Code&logoColor=23a8f2)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes)
+[![Themes](https://img.shields.io/badge/Theme-Dark-00b5e9.svg?labelColor=535353&logo=Visual-Studio-Code&logoColor=23a8f2)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&term=Dark)
 <br>
 ![Brown](https://img.shields.io/badge/❀-Brown-c39b8f.svg?labelColor=d9b6ac)
 ![Pink](https://img.shields.io/badge/❀-Pink-d770ad.svg?labelColor=ec87c0)
@@ -44,7 +44,7 @@ GitHub Repo: [https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/](https://githu
 
 ## 📥 Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&term=IKKI)  
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&term=IKKI)
 
 ## 🔍 Looking for the Light theme?
 
