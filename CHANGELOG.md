@@ -4,6 +4,46 @@ All notable changes to the "IKKI-VSCode-Dark-Theme" extension will be documented
 See [commits](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/commits/master) for more details.
 See [Theme Color](https://code.visualstudio.com/api/references/theme-color) for workbench colors list.
 
+## [v1.1.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/1.1.0) <small>[ 2020-10-16 ]</small>
+
+### -= Workbench colors =-
+
+#### Add
+
+* Editor Groups & Tabs
+    * tab.lastPinnedBorder
+* Editor colors
+    * editor.onTypeRenameBackground
+* Git colors
+    * gitDecoration.stageAddedResourceForeground
+    * gitDecoration.stageDeletedResourceForeground
+* Notebook colors
+    * notebook.symbolHighlightBackground
+    * notebook.rowHoverBackground
+    * notebook.focusedRowBorder
+
+#### Modify
+
+* None
+
+#### Delete
+
+* None
+
+### -= Syntax colors =-
+
+#### Add
+
+* None
+
+#### Modify
+
+* None
+
+#### Delete
+
+* None
+
 ## [v1.0.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/1.0.0) <small>[ 2020-07-30 ]</small>
 
 ### -= Workbench colors =-
