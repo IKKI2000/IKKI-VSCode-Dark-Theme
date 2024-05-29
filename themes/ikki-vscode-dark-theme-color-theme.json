@@ -3,6 +3,8 @@
 	"type": "dark",
 	"colors": {
 		// Contrast colors
+		"contrastActiveBorder": "#ffb74d00",
+		"contrastBorder": "#00c2d100",
 		// Base colors
 		"focusBorder": "#ffb74d",
 		"foreground": "#f0f0f0",
