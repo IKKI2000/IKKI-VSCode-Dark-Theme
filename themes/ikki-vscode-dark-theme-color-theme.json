@@ -26,6 +26,7 @@
 		"textLink.activeForeground": "#23d8de",
 		"textLink.foreground": "#00c2d1",
 		"textPreformat.foreground": "#00b5e9",
+		"textPreformat.background": "#33333399",
 		"textSeparator.foreground": "#383838",
 		// Action colors
 		// Button control
