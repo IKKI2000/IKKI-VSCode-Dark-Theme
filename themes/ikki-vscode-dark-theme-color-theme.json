@@ -123,6 +123,12 @@
 		"activityBar.activeBorder": "#00c2d1",
 		"activityBar.activeBackground": "#d6d6d633",
 		"activityBar.activeFocusBorder": "#00c2d1",
+		"activityBarTop.foreground": "#d6d6d6",
+		"activityBarTop.activeBorder": "#00c2d1",
+		"activityBarTop.inactiveForeground": "#989898",
+		"activityBarTop.dropBorder": "#00c2d1",
+		"activityBarTop.background": "#535353",
+		"activityBarTop.activeBackground": "#d6d6d633",
 		// Profiles
 		// Side Bar
 		"sideBar.background": "#424242",
