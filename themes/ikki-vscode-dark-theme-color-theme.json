@@ -326,6 +326,8 @@
 		"editorGutter.addedBackground": "#bede0b",
 		"editorGutter.deletedBackground": "#faa685",
 		"editorGutter.commentRangeForeground": "#888888",
+		"editorGutter.commentGlyphForeground": "#aaaaaa",
+		"editorGutter.commentUnresolvedGlyphForeground": "#999999",
 		"editorGutter.foldingControlForeground": "#d6d6d6",
 		// Diff editor colors
 		"diffEditor.insertedTextBackground": "#bede0b22",
