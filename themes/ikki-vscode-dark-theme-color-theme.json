@@ -329,6 +329,11 @@
 		"editorGutter.commentGlyphForeground": "#aaaaaa",
 		"editorGutter.commentUnresolvedGlyphForeground": "#999999",
 		"editorGutter.foldingControlForeground": "#d6d6d6",
+		"editorCommentsWidget.resolvedBorder": "#383838",
+		"editorCommentsWidget.unresolvedBorder": "#666666",
+		"editorCommentsWidget.rangeBackground": "#99999966",
+		"editorCommentsWidget.rangeActiveBackground": "#d6d6d633",
+		"editorCommentsWidget.replyInputBackground": "#454545",
 		// Diff editor colors
 		"diffEditor.insertedTextBackground": "#bede0b22",
 		"diffEditor.insertedTextBorder": "#bede0b22",
