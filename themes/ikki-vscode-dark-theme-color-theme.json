@@ -335,10 +335,10 @@
 		"editorCommentsWidget.rangeActiveBackground": "#d6d6d633",
 		"editorCommentsWidget.replyInputBackground": "#454545",
 		// Diff editor colors
-		"diffEditor.insertedTextBackground": "#bede0b22",
-		"diffEditor.insertedTextBorder": "#bede0b22",
-		"diffEditor.removedTextBackground": "#faa68522",
-		"diffEditor.removedTextBorder": "#faa68522",
+		"diffEditor.insertedTextBackground": "#bede0b33",
+		"diffEditor.insertedTextBorder": "#bede0b44",
+		"diffEditor.removedTextBackground": "#faa68533",
+		"diffEditor.removedTextBorder": "#faa68544",
 		"diffEditor.border": "#383838",
 		"diffEditor.diagonalFill": "#88888899",
 		// Chat colors
@@ -622,14 +622,14 @@
 		"notebookScrollbarSlider.activeBackground": "#23d8de99",
 		"notebook.symbolHighlightBackground": "#d6d6d655",
 		"notebook.rowHoverBackground": "#d6d6d633",
-		"notebook.focusedRowBorder": "#d6d6d666"
+		"notebook.focusedRowBorder": "#d6d6d666",
 		// Chart colors
 		// Ports Colors
 		// Comments View colors
 		// Action Bar colors
 		// Simple Find Widget
 		// SCM
-		// "scm.providerBorder": "#383838"
+		"scm.providerBorder": "#383838"
 	},
 	"tokenColors": [
 		{
