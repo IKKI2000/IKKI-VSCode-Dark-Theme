@@ -343,6 +343,8 @@
 		"diffEditor.diagonalFill": "#88888899",
 		"diffEditor.insertedLineBackground": "#bede0b11",
 		"diffEditor.removedLineBackground": "#faa68511",
+		"diffEditorGutter.insertedLineBackground": "#bede0b44",
+		"diffEditorGutter.removedLineBackground": "#faa68544",
 		// Chat colors
 		// Inline Chat colors
 		// Panel Chat colors
