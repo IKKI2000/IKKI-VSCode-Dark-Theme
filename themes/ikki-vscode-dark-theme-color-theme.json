@@ -357,6 +357,12 @@
 		"multiDiffEditor.background": "#535353",
 		"multiDiffEditor.border": "#383838",
 		// Chat colors
+		"chat.requestBorder": "#666666",
+		"chat.requestBackground": "#454545",
+		"chat.slashCommandBackground": "#d6d6d633",
+		"chat.slashCommandForeground": "#d6d6d6",
+		"chat.avatarBackground": "#00c2d1",
+		"chat.avatarForeground": "#000000",
 		// Inline Chat colors
 		// Panel Chat colors
 		// Editor widget colors
