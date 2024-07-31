@@ -368,6 +368,10 @@
 		"inlineChat.border": "#383838",
 		"inlineChat.shadow": "#11111166",
 		"inlineChat.regionHighlight": "#53535388",
+		"inlineChatInput.border": "#666666",
+		"inlineChatInput.focusBorder": "#ffb74d",
+		"inlineChatInput.placeholderForeground": "#666666",
+		"inlineChatInput.background": "#454545",
 		// Panel Chat colors
 		// Editor widget colors
 		"editorWidget.foreground": "#d6d6d6",
