@@ -372,6 +372,8 @@
 		"inlineChatInput.focusBorder": "#ffb74d",
 		"inlineChatInput.placeholderForeground": "#666666",
 		"inlineChatInput.background": "#454545",
+		"inlineChatDiff.inserted": "#bede0b33",
+		"inlineChatDiff.removed": "#faa68533",
 		// Panel Chat colors
 		// Editor widget colors
 		"editorWidget.foreground": "#d6d6d6",
