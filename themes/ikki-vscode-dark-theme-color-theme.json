@@ -375,6 +375,8 @@
 		"inlineChatDiff.inserted": "#bede0b33",
 		"inlineChatDiff.removed": "#faa68533",
 		// Panel Chat colors
+		"interactive.activeCodeBorder": "#383838",
+		"interactive.inactiveCodeBorder": "#383838cc",
 		// Editor widget colors
 		"editorWidget.foreground": "#d6d6d6",
 		"editorWidget.background": "#535353",
