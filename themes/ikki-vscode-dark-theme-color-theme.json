@@ -439,6 +439,8 @@
 		"editorOverviewRuler.currentContentForeground": "#00c2d199",
 		"editorOverviewRuler.incomingContentForeground": "#00b5e999",
 		"editorOverviewRuler.commonContentForeground": "#99999999",
+		"editorOverviewRuler.commentForeground": "#666666",
+		"editorOverviewRuler.commentUnresolvedForeground": "#66666699",
 		// Panel colors
 		"panel.background": "#424242",
 		"panel.border": "#383838",
