@@ -441,6 +441,8 @@
 		"editorOverviewRuler.commonContentForeground": "#99999999",
 		"editorOverviewRuler.commentForeground": "#666666",
 		"editorOverviewRuler.commentUnresolvedForeground": "#66666699",
+		"mergeEditor.change.background": "#84cef866",
+		"mergeEditor.change.word.background": "#84cef888",
 		// Panel colors
 		"panel.background": "#424242",
 		"panel.border": "#383838",
