@@ -450,6 +450,8 @@
 		"mergeEditor.conflict.handled.minimapOverViewRuler": "#52c41a",
 		"mergeEditor.conflict.unhandled.minimapOverViewRuler": "#ff4d4f",
 		"mergeEditor.conflictingLines.background": "#f7d82a66",
+		"mergeEditor.changeBase.background": "#84cef866",
+		"mergeEditor.changeBase.word.background": "#84cef888",
 		// Panel colors
 		"panel.background": "#424242",
 		"panel.border": "#383838",
