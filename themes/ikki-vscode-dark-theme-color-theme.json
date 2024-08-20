@@ -452,6 +452,8 @@
 		"mergeEditor.conflictingLines.background": "#f7d82a66",
 		"mergeEditor.changeBase.background": "#84cef866",
 		"mergeEditor.changeBase.word.background": "#84cef888",
+		"mergeEditor.conflict.input1.background": "#00c2d133",
+		"mergeEditor.conflict.input2.background": "#00b5e933",
 		// Panel colors
 		"panel.background": "#424242",
 		"panel.border": "#383838",
