@@ -467,7 +467,8 @@
 		"panelSectionHeader.background": "#424242",
 		"panelSectionHeader.foreground": "#d6d6d6",
 		"panelSectionHeader.border": "#383838",
-		"imagePreview.border": "#666666",
+		"outputView.background": "#535353",
+		"outputViewStickyScroll.background": "#424242",
 		// Status Bar colors
 		"statusBar.background": "#00c2d1",
 		"statusBar.foreground": "#000000",
