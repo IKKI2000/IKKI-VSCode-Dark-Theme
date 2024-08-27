@@ -486,8 +486,10 @@
 		"statusBarItem.prominentBackground": "#00000033",
 		"statusBarItem.prominentHoverForeground": "#000000cc",
 		"statusBarItem.prominentHoverBackground": "#00000011",
-		"statusBarItem.remoteBackground": "#f35800",
+		"statusBarItem.remoteBackground": "#00c2d1",
 		"statusBarItem.remoteForeground": "#000000",
+		"statusBarItem.remoteHoverBackground": "#00000022",
+		"statusBarItem.remoteHoverForeground": "#000000cc",
 		// Title Bar colors
 		"titleBar.activeBackground": "#535353",
 		"titleBar.activeForeground": "#d6d6d6",
