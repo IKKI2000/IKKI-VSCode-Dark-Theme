@@ -498,6 +498,13 @@
 		"statusBarItem.warningForeground": "#000000",
 		"statusBarItem.warningHoverBackground": "#00000022",
 		"statusBarItem.warningHoverForeground": "#000000cc",
+		"statusBarItem.compactHoverBackground": "#00000044",
+		"statusBarItem.focusBorder": "#ff980000",
+		"statusBar.focusBorder": "#ff9800",
+		"statusBarItem.offlineBackground": "#888888",
+		"statusBarItem.offlineForeground": "#000000",
+		"statusBarItem.offlineHoverForeground": "#000000cc",
+		"statusBarItem.offlineHoverBackground": "#00000022",
 		// Title Bar colors
 		"titleBar.activeBackground": "#535353",
 		"titleBar.activeForeground": "#d6d6d6",
