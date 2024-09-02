@@ -523,6 +523,15 @@
 		"menu.separatorBackground": "#383838",
 		"menu.border": "#535353",
 		// Command Center colors
+		"commandCenter.foreground": "#d6d6d6cc",
+		"commandCenter.activeForeground": "#d6d6d6",
+		"commandCenter.background": "#d6d6d611",
+		"commandCenter.activeBackground": "#d6d6d622",
+		"commandCenter.border": "#383838",
+		"commandCenter.inactiveForeground": "#989898",
+		"commandCenter.inactiveBorder": "#383838cc",
+		"commandCenter.activeBorder": "#ffb74d",
+		"commandCenter.debuggingBackground": "#d6d6d611",
 		// Notification colors
 		"notificationCenter.border": "#383838",
 		"notificationCenterHeader.foreground": "#d6d6d6",
