@@ -558,6 +558,10 @@
 		"extensionButton.separator": "#00000066",
 		"extensionBadge.remoteBackground": "#00c2d1",
 		"extensionBadge.remoteForeground": "#000000",
+		"extensionIcon.starForeground": "#f35800ee",
+		"extensionIcon.verifiedForeground": "#00c2d1ee",
+		"extensionIcon.preReleaseForeground": "#f35800ee",
+		"extensionIcon.sponsorForeground": "#00c2d1ee",
 		// Quick picker colors
 		"pickerGroup.border": "#383838",
 		"pickerGroup.foreground": "#d6d6d6",
