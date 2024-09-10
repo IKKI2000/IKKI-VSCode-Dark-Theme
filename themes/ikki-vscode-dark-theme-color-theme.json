@@ -572,6 +572,10 @@
 		"quickInputList.focusIconForeground": "#d6d6d6",
 		"quickInputTitle.background": "#424242",
 		// Keybinding label colors
+		"keybindingLabel.background": "#454545",
+		"keybindingLabel.foreground": "#f0f0f0",
+		"keybindingLabel.border": "#666666",
+		"keybindingLabel.bottomBorder": "#666666",
 		// Keyboard shortcut table colors
 		// Integrated Terminal colors
 		"terminal.background": "#535353",
