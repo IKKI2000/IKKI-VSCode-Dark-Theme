@@ -577,6 +577,8 @@
 		"keybindingLabel.border": "#666666",
 		"keybindingLabel.bottomBorder": "#666666",
 		// Keyboard shortcut table colors
+		"keybindingTable.headerBackground": "#ffb74d",
+		"keybindingTable.rowsBackground": "#d6d6d633",
 		// Integrated Terminal colors
 		"terminal.background": "#535353",
 		"terminal.border": "#383838",
