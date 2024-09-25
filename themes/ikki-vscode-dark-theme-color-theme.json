@@ -801,6 +801,14 @@
 		"notebookStatusSuccessIcon.foreground": "#52c41a",
 		"notebookEditorOverviewRuler.runningCellForeground": "#69c0ffcc",
 		// Chart colors
+		"charts.foreground": "#d6d6d6",
+		"charts.lines": "#66666688",
+		"charts.red": "#ed5565",
+		"charts.blue": "#5d9cec",
+		"charts.yellow": "#ffce54",
+		"charts.orange": "#ffb74d",
+		"charts.green": "#48cfad",
+		"charts.purple": "#ac92ec",
 		// Ports Colors
 		// Comments View colors
 		// Action Bar colors
