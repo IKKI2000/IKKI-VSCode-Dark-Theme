@@ -810,6 +810,7 @@
 		"charts.green": "#48cfad",
 		"charts.purple": "#ac92ec",
 		// Ports Colors
+		"ports.iconRunningProcessForeground": "#69c0ff",
 		// Comments View colors
 		// Action Bar colors
 		// Simple Find Widget
