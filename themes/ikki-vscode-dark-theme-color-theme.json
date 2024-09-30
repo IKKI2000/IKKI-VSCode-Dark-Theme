@@ -817,6 +817,7 @@
 		// Action Bar colors
 		"actionBar.toggledBackground": "#d6d6d622",
 		// Simple Find Widget
+		"simpleFindWidget.sashBorder": "#383838",
 		// SCM
 		"scm.providerBorder": "#383838"
 	},
