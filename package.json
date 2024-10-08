@@ -2,13 +2,13 @@
     "name": "ikki-vscode-dark-theme",
     "displayName": "IKKI VSCode Dark Theme",
     "description": "👁️‍🗨️ Eye Protection Dark Theme for Visual Studio Code Powered by IKKI~",
-    "version": "1.1.0",
+    "version": "1.88.1",
     "publisher": "IKKI2000",
     "author": {
         "name": "IKKI"
     },
     "engines": {
-        "vscode": "^1.50.0"
+        "vscode": "^1.88.1"
     },
     "license": "MIT",
     "icon": "images/icon.png",

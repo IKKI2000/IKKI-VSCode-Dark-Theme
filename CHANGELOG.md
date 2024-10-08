@@ -4,6 +4,433 @@ All notable changes to the "IKKI-VSCode-Dark-Theme" extension will be documented
 See [commits](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/commits/master) for more details.
 See [Theme Color](https://code.visualstudio.com/api/references/theme-color) for workbench colors list.
 
+## [v1.88.1](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/1.88.1) <small>[ 2024-10-08 ]</small>
+
+### -= Workbench colors =-
+
+#### Add
+
+* Contrast colors
+    * contrastActiveBorder
+    * contrastBorder
+* Base colors
+    * disabledForeground
+    * widget.border
+    * sash.hoverBorder
+* Text colors
+    * textPreformat.background
+* Action colors
+    * toolbar.hoverBackground
+    * toolbar.hoverOutline
+    * toolbar.activeBackground
+* Button control
+    * button.border
+    * button.separator
+    * checkbox.selectBackground
+    * checkbox.selectBorder
+* Input control
+    * inputOption.hoverBackground
+* Lists and trees
+    * list.activeSelectionIconForeground
+    * list.focusHighlightForeground
+    * list.focusOutline
+    * list.focusAndSelectionOutline
+    * list.inactiveSelectionIconForeground
+    * list.inactiveFocusOutline
+    * listFilterWidget.shadow
+    * list.dropBetweenBackground
+    * tree.inactiveIndentGuidesStroke
+    * tree.tableColumnsBorder
+    * tree.tableOddRowsBackground
+* Activity Bar
+    * activityBarTop.foreground
+    * activityBarTop.activeBorder
+    * activityBarTop.inactiveForeground
+    * activityBarTop.dropBorder
+    * activityBarTop.background
+    * activityBarTop.activeBackground
+* Profiles
+    * profileBadge.background
+    * profileBadge.foreground
+* Side Bar
+    * sideBarActivityBarTop.border
+* Minimap
+    * minimap.selectionOccurrenceHighlight
+    * minimap.foregroundOpacity
+    * minimap.infoHighlight
+* Editor Groups & Tabs
+    * editorGroup.dropIntoPromptForeground
+    * editorGroup.dropIntoPromptBackground
+    * editorGroup.dropIntoPromptBorder
+    * tab.dragAndDropBorder
+    * sideBySideEditor.horizontalBorder
+    * sideBySideEditor.verticalBorder
+* Editor colors
+    * editorLineNumber.dimmedForeground
+    * editorMultiCursor.primary.foreground
+    * editorMultiCursor.primary.background
+    * editorMultiCursor.secondary.foreground
+    * editorMultiCursor.secondary.background
+    * editor.wordHighlightTextBackground
+    * editor.wordHighlightTextBorder
+    * search.resultsInfoForeground
+    * editorWatermark.foreground
+    * editorUnicodeHighlight.border
+    * editorUnicodeHighlight.background
+    * editorIndentGuide.background1
+    * editorIndentGuide.background2
+    * editorIndentGuide.background3
+    * editorIndentGuide.background4
+    * editorIndentGuide.background5
+    * editorIndentGuide.background6
+    * editorIndentGuide.activeBackground1
+    * editorIndentGuide.activeBackground2
+    * editorIndentGuide.activeBackground3
+    * editorIndentGuide.activeBackground4
+    * editorIndentGuide.activeBackground5
+    * editorIndentGuide.activeBackground6
+    * editorInlayHint.background
+    * editorInlayHint.foreground
+    * editorInlayHint.typeForeground
+    * editorInlayHint.typeBackground
+    * editorInlayHint.parameterForeground
+    * editorInlayHint.parameterBackground
+    * editorLightBulbAi.foreground
+    * editorBracketHighlight.foreground1
+    * editorBracketHighlight.foreground2
+    * editorBracketHighlight.foreground3
+    * editorBracketHighlight.foreground4
+    * editorBracketHighlight.foreground5
+    * editorBracketHighlight.foreground6
+    * editorBracketHighlight.unexpectedBracket.foreground
+    * editorBracketPairGuide.activeBackground1
+    * editorBracketPairGuide.activeBackground2
+    * editorBracketPairGuide.activeBackground3
+    * editorBracketPairGuide.activeBackground4
+    * editorBracketPairGuide.activeBackground5
+    * editorBracketPairGuide.activeBackground6
+    * editorBracketPairGuide.background1
+    * editorBracketPairGuide.background2
+    * editorBracketPairGuide.background3
+    * editorBracketPairGuide.background4
+    * editorBracketPairGuide.background5
+    * editorBracketPairGuide.background6
+    * editorOverviewRuler.wordHighlightTextForeground
+    * editorOverviewRuler.inlineChatInserted
+    * editorOverviewRuler.inlineChatRemoved
+    * editorError.background
+    * editorWarning.background
+    * editorInfo.background
+    * editorGutter.commentGlyphForeground
+    * editorGutter.commentUnresolvedGlyphForeground
+    * editorCommentsWidget.resolvedBorder
+    * editorCommentsWidget.unresolvedBorder
+    * editorCommentsWidget.rangeBackground
+    * editorCommentsWidget.rangeActiveBackground
+    * editorCommentsWidget.replyInputBackground
+* Diff editor colors
+    * diffEditor.insertedLineBackground
+    * diffEditor.removedLineBackground
+    * diffEditorGutter.insertedLineBackground
+    * diffEditorGutter.removedLineBackground
+    * diffEditorOverview.insertedForeground
+    * diffEditorOverview.removedForeground
+    * diffEditor.unchangedRegionBackground
+    * diffEditor.unchangedRegionForeground
+    * diffEditor.unchangedRegionShadow
+    * diffEditor.unchangedCodeBackground
+    * diffEditor.move.border
+    * diffEditor.moveActive.border
+    * multiDiffEditor.headerBackground
+    * multiDiffEditor.background
+    * multiDiffEditor.border
+* Chat colors
+    * chat.requestBorder
+    * chat.requestBackground
+    * chat.slashCommandBackground
+    * chat.slashCommandForeground
+    * chat.avatarBackground
+    * chat.avatarForeground
+* Inline Chat colors
+    * inlineChat.background
+    * inlineChat.border
+    * inlineChat.shadow
+    * inlineChat.regionHighlight
+    * inlineChatInput.border
+    * inlineChatInput.focusBorder
+    * inlineChatInput.placeholderForeground
+    * inlineChatInput.background
+    * inlineChatDiff.inserted
+    * inlineChatDiff.removed
+* Panel Chat colors
+    * interactive.activeCodeBorder
+    * interactive.inactiveCodeBorder
+* Editor widget colors
+    * editorSuggestWidget.focusHighlightForeground
+    * editorSuggestWidget.selectedForeground
+    * editorSuggestWidget.selectedIconForeground
+    * editorSuggestWidgetStatus.foreground
+    * editorHoverWidget.highlightForeground
+    * editorGhostText.border
+    * editorGhostText.background
+    * editorGhostText.foreground
+    * editorStickyScroll.background
+    * editorStickyScroll.border
+    * editorStickyScroll.shadow
+    * editorStickyScrollHover.background
+    * editorMarkerNavigationError.headerBackground
+    * editorMarkerNavigationWarning.headerBackground
+    * editorMarkerNavigationInfo.headerBackground
+* Peek view colors
+    * peekViewEditorStickyScroll.background
+* Merge conflicts colors
+    * editorOverviewRuler.commentForeground
+    * editorOverviewRuler.commentUnresolvedForeground
+    * mergeEditor.change.background
+    * mergeEditor.change.word.background
+    * mergeEditor.conflict.unhandledUnfocused.border
+    * mergeEditor.conflict.unhandledFocused.border
+    * mergeEditor.conflict.handledUnfocused.border
+    * mergeEditor.conflict.handledFocused.border
+    * mergeEditor.conflict.handled.minimapOverViewRuler
+    * mergeEditor.conflict.unhandled.minimapOverViewRuler
+    * mergeEditor.conflictingLines.background
+    * mergeEditor.changeBase.background
+    * mergeEditor.changeBase.word.background
+    * mergeEditor.conflict.input1.background
+    * mergeEditor.conflict.input2.background
+* Panel colors
+    * outputView.background
+    * outputViewStickyScroll.background
+* Status Bar colors
+    * statusBarItem.hoverForeground
+    * statusBarItem.prominentHoverForeground
+    * statusBarItem.remoteHoverBackground
+    * statusBarItem.remoteHoverForeground
+    * statusBarItem.errorBackground
+    * statusBarItem.errorForeground
+    * statusBarItem.errorHoverBackground
+    * statusBarItem.errorHoverForeground
+    * statusBarItem.warningBackground
+    * statusBarItem.warningForeground
+    * statusBarItem.warningHoverBackground
+    * statusBarItem.warningHoverForeground
+    * statusBarItem.compactHoverBackground
+    * statusBarItem.focusBorder
+    * statusBar.focusBorder
+    * statusBarItem.offlineBackground
+    * statusBarItem.offlineForeground
+    * statusBarItem.offlineHoverForeground
+    * statusBarItem.offlineHoverBackground
+* Command Center colors
+    * commandCenter.foreground
+    * commandCenter.activeForeground
+    * commandCenter.background
+    * commandCenter.activeBackground
+    * commandCenter.border
+    * commandCenter.inactiveForeground
+    * commandCenter.inactiveBorder
+    * commandCenter.activeBorder
+    * commandCenter.debuggingBackground
+* Banner colors
+    * banner.background
+    * banner.foreground
+    * banner.iconForeground
+* Extensions colors
+    * extensionButton.background
+    * extensionButton.foreground
+    * extensionButton.hoverBackground
+    * extensionButton.separator
+    * extensionIcon.starForeground
+    * extensionIcon.verifiedForeground
+    * extensionIcon.preReleaseForeground
+    * extensionIcon.sponsorForeground
+* Quick picker colors
+    * quickInputList.focusBackground
+    * quickInputList.focusForeground
+    * quickInputList.focusIconForeground
+* Keybinding label colors
+    * keybindingLabel.background
+    * keybindingLabel.foreground
+    * keybindingLabel.border
+    * keybindingLabel.bottomBorder
+* Keyboard shortcut table colors
+    * keybindingTable.headerBackground
+    * keybindingTable.rowsBackground
+* Integrated Terminal colors
+    * terminal.selectionForeground
+    * terminal.inactiveSelectionBackground
+    * terminal.findMatchBackground
+    * terminal.findMatchBorder
+    * terminal.findMatchHighlightBackground
+    * terminal.findMatchHighlightBorder
+    * terminal.hoverHighlightBackground
+    * terminal.dropBackground
+    * terminal.tab.activeBorder
+    * terminalCommandDecoration.defaultBackground
+    * terminalCommandDecoration.successBackground
+    * terminalCommandDecoration.errorBackground
+    * terminalOverviewRuler.cursorForeground
+    * terminalOverviewRuler.findMatchForeground
+    * terminalStickyScroll.background
+    * terminalStickyScrollHover.background
+* Debug colors
+    * editor.inlineValuesForeground
+    * editor.inlineValuesBackground
+* Testing colors
+    * testing.runAction
+    * testing.iconErrored
+    * testing.iconFailed
+    * testing.iconPassed
+    * testing.iconQueued
+    * testing.iconUnset
+    * testing.iconSkipped
+    * testing.iconErrored.retired
+    * testing.iconFailed.retired
+    * testing.iconPassed.retired
+    * testing.iconQueued.retired
+    * testing.iconUnset.retired
+    * testing.iconSkipped.retired
+    * testing.peekBorder
+    * testing.peekHeaderBackground
+    * testing.message.error.decorationForeground
+    * testing.message.error.lineBackground
+    * testing.message.info.decorationForeground
+    * testing.message.info.lineBackground
+    * testing.messagePeekBorder
+    * testing.messagePeekHeaderBackground
+    * testing.coveredBackground
+    * testing.coveredBorder
+    * testing.coveredGutterBackground
+    * testing.uncoveredBranchBackground
+    * testing.uncoveredBackground
+    * testing.uncoveredBorder
+    * testing.uncoveredGutterBackground
+    * testing.coverCountBadgeBackground
+    * testing.coverCountBadgeForeground
+* Welcome page colors
+    * welcomePage.progress.background
+    * welcomePage.progress.foreground
+    * welcomePage.tileBackground
+    * welcomePage.tileHoverBackground
+    * welcomePage.tileBorder
+    * walkthrough.stepTitle.foreground
+* Git colors
+    * gitDecoration.renamedResourceForeground
+    * gitDecoration.stageModifiedResourceForeground
+* Settings Editor colors
+    * settings.rowHoverBackground
+    * settings.focusedRowBackground
+    * settings.focusedRowBorder
+    * settings.headerBorder
+    * settings.sashBorder
+    * settings.settingsHeaderHoverForeground
+* Notebook colors
+    * notebook.editorBackground
+    * notebook.cellToolbarSeparator
+    * notebook.cellEditorBackground
+    * notebook.inactiveFocusedCellBorder
+    * notebook.inactiveSelectedCellBorder
+    * notebook.outputContainerBorderColor
+    * notebook.selectedCellBackground
+    * notebook.selectedCellBorder
+    * notebookEditorOverviewRuler.runningCellForeground
+* Chart colors
+    * charts.foreground
+    * charts.lines
+    * charts.red
+    * charts.blue
+    * charts.yellow
+    * charts.orange
+    * charts.green
+    * charts.purple
+* Ports Colors
+    * ports.iconRunningProcessForeground
+* Comments View colors
+    * commentsView.resolvedIcon
+    * commentsView.unresolvedIcon
+* Action Bar colors
+    * actionBar.toggledBackground
+* Simple Find Widget
+    * simpleFindWidget.sashBorder
+* SCM
+    * scm.historyItemAdditionsForeground
+    * scm.historyItemDeletionsForeground
+    * scm.historyItemStatisticsBorder
+    * scm.historyItemSelectedStatisticsBorder
+
+#### Modify
+
+* Base colors
+    * selection.background
+* Minimap
+    * minimap.findMatchHighlight
+    * minimap.selectionHighlight
+* Editor colors
+    * editor.wordHighlightBackground
+    * editor.wordHighlightBorder
+    * editor.wordHighlightStrongBackground
+    * editor.wordHighlightStrongBorder
+    * editorOverviewRuler.wordHighlightForeground
+    * editorOverviewRuler.wordHighlightStrongForeground
+* Diff editor colors
+    * diffEditor.insertedTextBackground
+    * diffEditor.insertedTextBorder
+    * diffEditor.removedTextBackground
+    * diffEditor.removedTextBorder
+* Editor widget colors
+    * editorSuggestWidget.highlightForeground
+* Peek view colors
+    * peekViewResult.background
+    * peekViewTitle.background
+* Status Bar colors
+    * statusBar.border
+    * statusBar.debuggingBorder
+    * statusBar.noFolderBorder
+    * statusBarItem.activeBackground
+    * statusBarItem.remoteBackground
+* Notification colors
+    * notificationLink.foreground
+* Git colors
+    * gitDecoration.stageDeletedResourceForeground
+    * gitDecoration.untrackedResourceForeground
+    * gitDecoration.ignoredResourceForeground
+
+#### Delete
+
+* Editor colors
+    * editorIndentGuide.background
+    * editorIndentGuide.activeBackground
+    * editor.onTypeRenameBackground
+* Panel colors
+    * imagePreview.border
+* Welcome page colors
+    * welcomePage.buttonBackground
+    * welcomePage.buttonHoverBackground
+* Git colors
+    * gitDecoration.stageAddedResourceForeground
+* Notebook colors
+    * notebook.cellToolbarSeperator
+    * notebook.focusedCellShadow
+    * notebook.rowHoverBackground
+    * notebook.focusedRowBorder
+* SCM
+    * scm.providerBorder
+
+### -= Syntax colors =-
+
+#### Add
+
+* None
+
+#### Modify
+
+* None
+
+#### Delete
+
+* None
+
 ## [v1.1.0](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/releases/tag/1.1.0) <small>[ 2020-10-16 ]</small>
 
 ### -= Workbench colors =-

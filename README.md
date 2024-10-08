@@ -24,7 +24,7 @@ GitHub Repo: [https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/](https://githu
 [![GitHub forks](https://img.shields.io/github/forks/IKKI2000/IKKI-VSCode-Dark-Theme.svg?style=social)](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/network/members)
 [![GitHub watchers](https://img.shields.io/github/watchers/IKKI2000/IKKI-VSCode-Dark-Theme.svg?style=social)](https://github.com/IKKI2000/IKKI-VSCode-Dark-Theme/watchers)
 <br>
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-^1.50.0-007acc.svg?labelColor=535353&logo=Visual-Studio-Code&logoColor=23a8f2)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-^1.88.1-007acc.svg?labelColor=535353&logo=Visual-Studio-Code&logoColor=23a8f2)](https://code.visualstudio.com/)
 [![Categories](https://img.shields.io/badge/Categories-Themes-00c2d1.svg?labelColor=535353&logo=Visual-Studio-Code&logoColor=23a8f2)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes)
 [![Themes](https://img.shields.io/badge/Theme-Dark-00b5e9.svg?labelColor=535353&logo=Visual-Studio-Code&logoColor=23a8f2)](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&term=Dark)
 <br>
