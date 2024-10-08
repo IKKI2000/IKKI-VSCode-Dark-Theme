@@ -819,7 +819,10 @@
 		// Simple Find Widget
 		"simpleFindWidget.sashBorder": "#383838",
 		// SCM
-		"scm.providerBorder": "#383838"
+		"scm.historyItemAdditionsForeground": "#bede0b",
+		"scm.historyItemDeletionsForeground": "#faa685",
+		"scm.historyItemStatisticsBorder": "#383838",
+		"scm.historyItemSelectedStatisticsBorder": "#00c2d1"
 	},
 	"tokenColors": [
 		{
